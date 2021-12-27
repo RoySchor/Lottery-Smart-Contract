@@ -4,9 +4,7 @@ const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
   'maze suggest ensure retreat journey supreme fit ghost cousin clinic swallow banana',
-  // remember to change this to your own phrase!
   'https://rinkeby.infura.io/v3/3ec7bf63ff434a55bf3e50e1effc76f2'
-  // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
 
