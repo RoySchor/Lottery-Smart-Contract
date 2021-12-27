@@ -1,4 +1,4 @@
-# Lottery Smart Contract
+# Lottery Smart Contract ![image](https://github.com/RoySchor/Lottery-Smart-Contract/blob/master/smart-contract.gif)
 
 A lottery system written in JavaScript and Solidity, tested on Remix, then deployed to the Rinkbey Test Network.
 
