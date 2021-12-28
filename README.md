@@ -5,7 +5,7 @@ A lottery system written in JavaScript and Solidity, tested on Remix and, using 
 ### Lottery Application Walk-through:
 1) Smart Contract is deployed
    -  An account on the ethereum blockchain deploys this smart contract and, thus, becomes the **Manager** of their own lottery.
-2) Users enter the Lottery
+2) Users, an Account, enters the Lottery
    - Any account can submit an entry with a minimum etherium buy-in > 0.01 ether 
      - the buy-in ether --> goes into the lottery pot
    - That account now has one share in the lottery
